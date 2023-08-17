@@ -1,0 +1,21 @@
+{
+  "name": "react-mask-input",
+  "version": "1.0.0",
+  "description": "Input field with Mask",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:icarodavi/react-mask-input"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "mask",
+    "typescript"
+  ],
+  "author": "Icaro Monteiro",
+  "license": "ISC"
+}
